@@ -25,4 +25,17 @@
 	nav {
 		background-color: yellow;
 	}
+
+	div.ml {
+		margin-top: 5%;
+	}
+
+	p.margin-card {
+		margin: 5%;
+		margin-left: 0px;
+	}
+
+	img.rounded-pic {
+		border-radius: 50%;
+	}
 }
